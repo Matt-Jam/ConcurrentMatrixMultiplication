@@ -1,6 +1,6 @@
 # Matrices
 
-**TODO: Add description**
+**Concurrent matrix multiplication algorithm in Elixir to learn and practice concurrency and functions**
 
 ## Installation
 
